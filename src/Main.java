@@ -15,5 +15,5 @@ public class Main {
         MaxElementInArray maxElementInArray = new MaxElementInArray(ints);
         System.out.println(maxElementInArray.getInts());
     }
-
+            //55
 }
